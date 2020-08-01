@@ -1,9 +1,11 @@
-### Hi there 👋
+#### Hi! 
+##### I'm Elton Mário 👋
 
 <!--
 **eltonjf/eltonjf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a young man with beautiful gray hair that love study, learn and practice programming. 
+In moment I work with network support but I always be development something, to study, for my work or for simple client. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
